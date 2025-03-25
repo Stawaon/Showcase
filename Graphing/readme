@@ -1,0 +1,2 @@
+Graph.java is a class that builds a graph data structure with the options for a breadth-first search, depth-first search, and the use of Dijkstra's algorithm to find the shortest path between 2 vertices.
+GraphExample.java initializes a graph, populates vertices, adds edges and then demonstrates the usage of the bfs, dfs, and dijkstra's.
