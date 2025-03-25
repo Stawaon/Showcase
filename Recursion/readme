@@ -1,0 +1,1 @@
+Stack Sort.py is a program that builds a stack class, and then given a list of integers uses recursion and the stack to sort them and re-enter them into the stack from least-first to greatest-last order
