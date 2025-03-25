@@ -1,0 +1,2 @@
+WordSearch.java is a class that allows the user to generate and play a word search game. The letters are all stored in arrays. Words can be generated horizontally, vertically, or diagonally, in addition to being forwards or backwards.
+WordSearchMain.java is a class with a while loop for the user to use the Word Search game.
