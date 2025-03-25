@@ -1,1 +1,3 @@
-
+PhoneBookManager.java is a class that manages a linked list of strings as if it were a phonebook. Names added to the LL are sorted alphabetically by last name.
+TestClass.java is a class that initializes a phonebook, adds some entries, and tests the methods of the PhoneBookManager.java class
+ListNode.java is a class that builds a basic ListNode format for the LL structure
